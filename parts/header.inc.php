@@ -5,7 +5,7 @@
         </div>
         <div class="col">
             <div class="px-2 float-right img-lang-header">
-                <a href="functions/setLanguage.php?lang=en"><img src="images/eua.jpg" alt="bandeira dos estados unidos" width="30" height="20"></a>
+                <a href="functions/setLanguage.php?lang=en"><img src="images/eua.jpg" alt="bandeira dos estados unidos da américa" width="30" height="20"></a>
             </div>
             <div class="px-2 float-right img-lang-header">
                 <a href="functions/setLanguage.php?lang=pt-BR"><img src="images/brasil.jpg" alt="bandeira do brasil" width="30" height="20"></a>

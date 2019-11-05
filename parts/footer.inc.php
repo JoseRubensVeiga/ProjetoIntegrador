@@ -17,11 +17,11 @@
                 
                 <h4><?= __('Receba nossas notícias no e-mail', 'Receive our news in email') ?></h4>
                 <div class="form-group">
-                    <label for="input-footer-nome"><?= __('Nome', 'Name') ?></label>
+                    <label for="input-footer-nome" aria-label="Nome"><?= __('Nome', 'Name') ?></label>
                     <input type="text" class="form-control" name="input-footer-nome" id="input-footer-nome" >
                 </div>
                 <div class="form-group">
-                    <label for="input-footer-email"><?= __('E-mail', 'Email') ?></label>
+                    <label for="input-footer-email" aria-label="E-mail"><?= __('E-mail', 'Email') ?></label>
                     <input type="text" class="form-control" name="input-footer-email" id="input-footer-email" >
                 </div>
                 <div class="form-group">

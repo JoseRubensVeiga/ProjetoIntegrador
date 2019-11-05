@@ -1,2 +1,0 @@
-# Projeto Integrador da FATEC
-

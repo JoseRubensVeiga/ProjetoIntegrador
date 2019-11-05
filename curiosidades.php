@@ -17,7 +17,7 @@
 </div>
 <div class="row p-4 text-justify">
     <div class="col-lg-2 col-md-2 col-sm-12">
-        <img class="dt-vcsabia w-100" <?= __('src="images/vocesabia.jpg"', 'src="images/didyouknow.jpg"') ?> alt="balao de dialogo com um texto escrito, voce sabia?">    
+        <img class="dt-vcsabia w-100" <?= __('src="images/vocesabia.jpg"', 'src="images/didyouknow.jpg"') ?> alt="balão de diálogo com um texto escrito, você sabia?">    
     </div>
     <div class="col-lg-10 col-md-10 col-sm-12">
         <p class="font-weight-bold text-uppercase text-center"><?= __('1. A primeira exibição de cinema em toda a história mundial ocorreu no ano de 1895 na cidade de Paris,

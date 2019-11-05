@@ -19,7 +19,7 @@
                     <li><?= __('Gênero', 'Genre') ?>: <?= __('Ação', 'Action') ?></li>
                     <li><?= __('Nacionalidade', 'Nacionality') ?>: EUA</li>
                 </ul>
-                <a href="https://www.youtube.com/watch?v=tc_RApTFIg8" class="btn btn-danger mt-auto"><?= __('Trailer', 'Trailer') ?></a>
+                <a href="https://www.youtube.com/watch?v=6yMtsA9AXXA" class="btn btn-danger mt-auto"><?= __('Trailer', 'Trailer') ?></a>
             </div>
         </div>
     </div>
@@ -71,7 +71,7 @@
                     <li><?= __('Gênero', 'Genre') ?>: <?= __('Terror', 'Horror') ?></li>
                     <li><?= __('Nacionalidade', 'Nacionality') ?>: EUA</li>
                 </ul>
-                <a href="https://www.youtube.com/watch?v=kZG7GgULAuc" class="btn btn-danger mt-auto"><?= __('Trailer', 'Trailer') ?></a>
+                <a href="https://www.youtube.com/watch?v=kLw_KNoS2kE" class="btn btn-danger mt-auto"><?= __('Trailer', 'Trailer') ?></a>
             </div>
         </div>
     </div>
@@ -105,7 +105,7 @@
                     <li><?= __('Gênero', 'Genre') ?>: <?= __('Ação', 'Action') ?></li>
                     <li><?= __('Nacionalidade', 'Nacionality') ?>: EUA</li>
                 </ul>
-                <a href="https://www.youtube.com/watch?v=MjjPIPh6aXQ" class="btn btn-danger mt-auto"><?= __('Trailer', 'Trailer') ?></a>
+                <a href="https://www.youtube.com/watch?v=ntSvI2qaRxU" class="btn btn-danger mt-auto"><?= __('Trailer', 'Trailer') ?></a>
             </div>
         </div>
     </div>
@@ -139,7 +139,7 @@
                     <li><?= __('Gênero', 'Genre') ?>: <?= __('Terror', 'Horror') ?></li>
                     <li><?= __('Nacionalidade', 'Nacionality') ?>: EUA</li>
                 </ul>
-                <a href="https://www.youtube.com/watch?v=v4YnUYqMQvI" class="btn btn-danger mt-auto"><?= __('Trailer', 'Trailer') ?></a>
+                <a href="https://www.youtube.com/watch?v=tFzvfrf0Nv0" class="btn btn-danger mt-auto"><?= __('Trailer', 'Trailer') ?></a>
             </div>
         </div>
     </div>
@@ -156,7 +156,7 @@
                     <li><?= __('Gênero', 'Genre') ?>: <?= __('Ficção', 'Fiction, ') ?><?= __('Aventura', 'Adventure') ?></li>
                     <li><?= __('Nacionalidade', 'Nacionality') ?>: EUA</li>
                 </ul>
-                <a href="https://www.youtube.com/watch?v=HPpCMq41r28" class="btn btn-danger mt-auto"><?= __('Trailer', 'Trailer') ?></a>
+                <a href="https://www.youtube.com/watch?v=W0squnw6Jp8" class="btn btn-danger mt-auto"><?= __('Trailer', 'Trailer') ?></a>
             </div>
         </div>
     </div>

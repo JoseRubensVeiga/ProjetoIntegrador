@@ -6,7 +6,7 @@
 
     <div class="mt-4">
         <p><?= __('E-mail', 'Email') ?>: contato@cinefatec.com.br</p>
-        <p><?= __('Rua dos Crisântemos, 15 - Vila Santa Rosália - Centro', 'Chrysanthemums Street, 15 - Santa Rosalia Village - Center') ?></p>
+        <p><?= __('Rua dos Crisântemos, 15 - Vila Santa Rosália - Centro', 'Chrysanthemums Street, 15 - Santa Rosália Village - Center') ?></p>
         <p>São Roque - SP</p>
         <p><?= __('Telefone', 'Fone') ?>: (11) 4321-1230</p>
     </div>
