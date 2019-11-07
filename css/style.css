@@ -433,3 +433,22 @@ li.nav-item:hover {
     position: absolute;
     top: 50%
 }
+
+.navbar-light .navbar-nav .nav-link:focus {
+    background-color: white;
+    color: black !important;
+    border-radius: 5px;
+    box-shadow: 0 0 0 0;
+    border: 0 none;
+    outline: 0;
+}
+
+.btn-inicio {
+    background-color: #800600;
+    color: #fff;
+}
+
+.btn-inicio:hover {
+    background-color: #f1f1f1;
+    color: #800600;
+}
