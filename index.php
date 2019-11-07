@@ -21,7 +21,7 @@
                         )?>
                     </p>
                     
-                    <a class="btn btn-large btn-block btn-link" href="#" role="button"><?= __('Ver mais', 'See more') ?></a>
+                    <a class="btn btn-large btn-block btn-link btn-inicio" href="#" role="button"><?= __('Ver mais', 'See more') ?></a>
                 </div>
             </div>
         </div>
@@ -45,7 +45,7 @@
 
                     <p><span class="badge badge-danger"><?= __('Alerta : essa postagem pode conter spoilers ', 'Alert: This post may contain spoilers') ?></span></p>
 
-                    <a class="btn btn-large btn-block btn-link pt-4" href="#" role="button"><?= __('Ver mais', 'See more') ?></a>
+                    <a class="btn btn-large btn-block btn-link btn-inicio" href="#" role="button"><?= __('Ver mais', 'See more') ?></a>
                 </div>
             </div>
         </div>
@@ -66,7 +66,7 @@
                         </p>
                     
                     
-                    <a class="btn btn-large btn-block btn-link" href="#" role="button"><?= __('Ver mais', 'See more') ?></a>
+                    <a class="btn btn-large btn-block btn-link btn-inicio" href="#" role="button"><?= __('Ver mais', 'See more') ?></a>
                 </div>
             </div>
         </div>
@@ -85,7 +85,7 @@
                         see who are the new queiridinhos for the next films ...') ?>
                     </p>
 
-                    <a class="btn btn-large btn-block btn-link" href="#" role="button"><?= __('Ver mais', 'See more') ?></a>
+                    <a class="btn btn-large btn-block btn-link btn-inicio" href="#" role="button"><?= __('Ver mais', 'See more') ?></a>
                 </div>
             </div>
         </div>
@@ -107,7 +107,7 @@
                     </p>
                     
                     
-                    <a class="btn btn-large btn-block btn-link" href="#" role="button"><?= __('Ver mais', 'See more') ?></a>
+                    <a class="btn btn-large btn-block btn-link btn-inicio" href="#" role="button"><?= __('Ver mais', 'See more') ?></a>
                 </div>
             </div>
         </div>
@@ -140,7 +140,7 @@
                             'Warning: This post may contain spoilers') 
                         ?></span></p>
 
-                    <a class="btn btn-large btn-block btn-link" href="#" role="button"><?= __('Ver mais', 'See more') ?></a>
+                    <a class="btn btn-large btn-block btn-link btn-inicio" href="#" role="button"><?= __('Ver mais', 'See more') ?></a>
                 </div>
             </div>
         </div>
@@ -167,7 +167,7 @@
                             __('Alerta: essa postagem pode conter spoilers',
                             'Warning: This post may contain spoilers') 
                         ?></span></p>
-                    <a class="btn btn-large btn-block btn-link" href="#" role="button">Ver mais</a>
+                    <a class="btn btn-large btn-block btn-link btn-inicio" href="#" role="button">Ver mais</a>
                 </div>
             </div>
 
@@ -192,7 +192,7 @@
                             __('Alerta : essa postagem pode conter spoillers',
                             'Warning: This post may contain spoilers') 
                         ?></span></p>
-                    <a class="btn btn-large btn-block btn-link" href="#" role="button"><?= __('Ver mais', 'See more') ?></a>
+                    <a class="btn btn-large btn-block btn-link btn-inicio" href="#" role="button"><?= __('Ver mais', 'See more') ?></a>
                 </div>
             </div>
         </div>
