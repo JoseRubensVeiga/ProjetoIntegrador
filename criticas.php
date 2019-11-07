@@ -65,7 +65,7 @@ One of the worst-grossing movies of all time around the globe.') ?></p>
             <div class="card-body">
             <h5><?= __('Máquinas Mortais', 'Mortal Machines') ?></h5>
                 <p class="card-text"><?= __('Baseado no primeiro livro do universo homônimo criado por Philip Reeve, Máquinas Mortais nos apresenta a um mundo distópico que, milhares de anos antes, havia sido devastado.', 'Based on the first book in the namesake universe created by Philip Reeve, Deadly Machines introduces us to a dystopian world that, thousands of years earlier, had been devastated.') ?></p>
-                <img src="images/star.png" class="card-img-botton" alt="ícone 4 estrelas">
+                <img src="images/star.png" class="card-img-botton" alt="ícone 4 estrelas ">
 
             </div>
         </div>
