@@ -21,7 +21,7 @@
                         )?>
                     </p>
                     
-                    <a class="btn btn-large btn-block btn-link btn-inicio" href="#" role="button"><?= __('Ver mais', 'See more') ?></a>
+                    <a class="btn btn-large btn-block btn-link" href="#" role="button"><?= __('Ver mais', 'See more') ?></a>
                 </div>
             </div>
         </div>
@@ -45,7 +45,7 @@
 
                     <p><span class="badge badge-danger"><?= __('Alerta : essa postagem pode conter spoilers ', 'Alert: This post may contain spoilers') ?></span></p>
 
-                    <a class="btn btn-large btn-block btn-link btn-inicio" href="#" role="button"><?= __('Ver mais', 'See more') ?></a>
+                    <a class="btn btn-large btn-block btn-link pt-4" href="#" role="button"><?= __('Ver mais', 'See more') ?></a>
                 </div>
             </div>
         </div>
@@ -66,7 +66,7 @@
                         </p>
                     
                     
-                    <a class="btn btn-large btn-block btn-link btn-inicio" href="#" role="button"><?= __('Ver mais', 'See more') ?></a>
+                    <a class="btn btn-large btn-block btn-link" href="#" role="button"><?= __('Ver mais', 'See more') ?></a>
                 </div>
             </div>
         </div>
@@ -85,7 +85,7 @@
                         see who are the new queiridinhos for the next films ...') ?>
                     </p>
 
-                    <a class="btn btn-large btn-block btn-link btn-inicio" href="#" role="button"><?= __('Ver mais', 'See more') ?></a>
+                    <a class="btn btn-large btn-block btn-link" href="#" role="button"><?= __('Ver mais', 'See more') ?></a>
                 </div>
             </div>
         </div>
@@ -107,7 +107,7 @@
                     </p>
                     
                     
-                    <a class="btn btn-large btn-block btn-link btn-inicio" href="#" role="button"><?= __('Ver mais', 'See more') ?></a>
+                    <a class="btn btn-large btn-block btn-link" href="#" role="button"><?= __('Ver mais', 'See more') ?></a>
                 </div>
             </div>
         </div>
@@ -140,7 +140,7 @@
                             'Warning: This post may contain spoilers') 
                         ?></span></p>
 
-                    <a class="btn btn-large btn-block btn-link btn-inicio" href="#" role="button"><?= __('Ver mais', 'See more') ?></a>
+                    <a class="btn btn-large btn-block btn-link" href="#" role="button"><?= __('Ver mais', 'See more') ?></a>
                 </div>
             </div>
         </div>
@@ -167,7 +167,7 @@
                             __('Alerta: essa postagem pode conter spoilers',
                             'Warning: This post may contain spoilers') 
                         ?></span></p>
-                    <a class="btn btn-large btn-block btn-link btn-inicio" href="#" role="button">Ver mais</a>
+                    <a class="btn btn-large btn-block btn-link" href="#" role="button">Ver mais</a>
                 </div>
             </div>
 
@@ -192,7 +192,7 @@
                             __('Alerta : essa postagem pode conter spoillers',
                             'Warning: This post may contain spoilers') 
                         ?></span></p>
-                    <a class="btn btn-large btn-block btn-link btn-inicio" href="#" role="button"><?= __('Ver mais', 'See more') ?></a>
+                    <a class="btn btn-large btn-block btn-link" href="#" role="button"><?= __('Ver mais', 'See more') ?></a>
                 </div>
             </div>
         </div>
@@ -224,7 +224,6 @@
                             __('Annabelle 3 (2019)',
                             'Annabelle 3 (2019)') 
                         ?></h5>
-                    <p class="card-text">This is a wider card with supporting text below as a natural.</p>
                     <p class="card-text"><small class="text-muted"><?= __('Última atualização 3 minutos atrás', 'Last updated 3 mins ago') ?></small></p>
                 </div>
                 </div>
@@ -245,7 +244,6 @@
                             __('Coringa (2019)',
                             'Joker (2019)') 
                         ?></h5>
-                    <p class="card-text">This is a wider card with supporting text below as a natural.</p>
                     <p class="card-text"><small class="text-muted"><?= __('Última atualização 3 minutos atrás', 'Last updated 3 mins ago') ?></small></p>
                 </div>
                 </div>
@@ -266,7 +264,6 @@
                             __('Velozes e furiosos 9(2019)',
                             'Fast and Furious 9 (2019)') 
                         ?></h5>
-                    <p class="card-text">This is a wider card with supporting text below as a natural.</p>
                     <p class="card-text"><small class="text-muted"><?= __('Última atualização 3 minutos atrás', 'Last updated 3 mins ago') ?></small></p>
                 </div>
                 </div>
@@ -287,7 +284,6 @@
                             __('Projeto Gremini (2019)',
                             'Project Gremini (2019)') 
                         ?></h5>
-                    <p class="card-text">This is a wider card with supporting text below as a natural.</p>
                     <p class="card-text"><small class="text-muted"><?= __('Última atualização 3 minutos atrás', 'Last updated 3 mins ago') ?></small></p>
                 </div>
                 </div>
@@ -308,7 +304,6 @@
                             __('Vingadores Últimato (2019)',
                             'Avengers End Game (2019)') 
                         ?></h5>
-                    <p class="card-text">This is a wider card with supporting text below as a natural.</p>
                     <p class="card-text"><small class="text-muted"><?= __('Última atualização 3 minutos atrás', 'Last updated 3 mins ago') ?></small></p>
                 </div>
                 </div>
@@ -329,7 +324,6 @@
                             __('Alladin (2019)',
                             'Alladin (2019)') 
                         ?></h5>
-                        <p class="card-text">This is a wider card with supporting text below as a natural.</p>
                         <p class="card-text"><small class="text-muted"><?= __('Última atualização 3 minutos atrás', 'Last updated 3 mins ago') ?></small></p>
                     </div>
                 </div>
@@ -354,11 +348,8 @@
 
         <div class="media-body col-md-10">
                 <h5 class="mt-0">
-                    <?= 
-                        __('Homens de Preto Internacional: Tessa Thompson revela fala que se recusou a dizer no filme',
-                        'Men in Black International: Tessa Thompson reveals speech he declined to say in the film') 
-                    ?></h5>
-                <p>Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.</p>
+                    <?= __('Homens de Preto Internacional: Tessa Thompson revela fala que se recusou a dizer no filme',
+                        'Men in Black International: Tessa Thompson reveals speech he declined to say in the film') ?></h5>
             </div>
         </div>
     </div>
@@ -372,7 +363,6 @@
                         __('Símbolo de Star Trek é visto durante expedição em Marte',
                         'Star Trek symbol seen during expedition on Mars') 
                     ?></h5>
-                <p>Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.</p>
             </div>
         </div>
     </div>
@@ -386,7 +376,6 @@
                         __('Looney Tunes: Pernalonga ganha novo desenho com muitas explosões',
                         'Looney Tunes: Bugsy gets new design with many explosions') 
                     ?></h5>
-                <p>Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.</p>
             </div>
         </div>
     </div>
@@ -400,7 +389,6 @@
                         __('X-Men - Fênix Negra: Ator revela que Skrulls seriam os vilões do filme',
                         "X-Men - Black Phoenix: Actor reveals that Skrulls would be the movie's villains") 
                     ?></h5>
-                <p>Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.</p>
             </div>
         </div>
     </div>
@@ -413,8 +401,7 @@
                     <?= 
                         __('Vingadores: Elenco celebra o aniversário de Chris Evans em grande estilo',
                         "Avengers: Cast celebrates Chris Evans' birthday in style") 
-                    ?></h5>
-                <p>Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.</p>
+                    ?></h5> 
             </div>
         </div>
     </div>

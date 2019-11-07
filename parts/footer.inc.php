@@ -1,18 +1,13 @@
 <footer class="bg-dark jv-footer">
     <div class="text-white ">
     <div class="row">
-        <div class="col-md-4 text-left pt-4 pl-5">
-            <h4>CINEFATEC</h4>
+        <div class="pt-5 col-md-4 text-left pt-4 pl-5">
+            <h4 class="pb-3">CINEFATEC</h4>
             <p>São Roque, SP</p>
             <P><?= __('Rua dos Crisântemos, 15 - Vila Santa Rosália - Centro', 'Chrysanthemums Street, 15 - Santa Rosalia Village - Center') ?></p>
             <p><?= __('Telefone','Phone') ?>: (11) 98263-5429</p>
-        </div>
-        <div class="col-md-4 text-center p-4">
-            <h4>Lorem Ipsum</h4>
-            <p>Lorem ipsum dolor sit amet consectetur, </p>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore nam laudantium nisi necessitatibus inventore deserunt fugiat placeat incidunt nihil fuga, eaque veniam consequatur facere provident sequi nesciunt praesentium error architecto.</p>
-        </div>
-        <div class="col-md-4 px-5 pt-4">
+        </div>  
+        <div class="col-md-4 offset-4 px-5 pt-4">
             <form>
                 
                 <h4><?= __('Receba nossas notícias no e-mail', 'Receive our news in email') ?></h4>
