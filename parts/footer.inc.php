@@ -1,4 +1,5 @@
 <footer class="bg-dark jv-footer">
+    <?php include('btn-voltar-sr-only.php'); ?>
     <div class="text-white ">
     <div class="row">
         <div class="pt-5 col-md-4 text-left pt-4 pl-5">

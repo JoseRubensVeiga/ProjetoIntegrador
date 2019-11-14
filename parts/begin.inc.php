@@ -62,9 +62,14 @@ $url = str_replace('.php', '', end($url));
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
         integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+    
+    <style>
+        
+    </style>
 </head>
 
 <body>
+    <a href="#main" class="sr-only" tabindex="0">Skeep to content</a>
    <?php include('parts/preloader.inc.php'); ?>
     <div class="container-fluid">
         <div class="row">
@@ -79,4 +84,4 @@ $url = str_replace('.php', '', end($url));
         </div>
         <div class="row">
             <div class="col-12 col-md-8 col-lg-9 px-0">
-                <main>
+                <main id="main">

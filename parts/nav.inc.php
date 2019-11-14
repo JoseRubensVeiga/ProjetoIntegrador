@@ -4,7 +4,7 @@ $u = explode('/', $_SERVER['REQUEST_URI']);
 $r = str_replace('.php', '', end($u));
 
 ?>
- <nav class="navbar navbar-expand-lg navbar-light shadow bg-white rounded pt-2 pb-0">
+ <nav class="navbar navbar-expand-lg navbar-light shadow bg-white rounded pt-2 pb-0" id="navbarMain">
         <a class="navbar-brand font-weight-bold" href="index.php">
          <img src="images/logo.png" alt="logo Cinefatec" width="200" class="pb-2">
        </a>
