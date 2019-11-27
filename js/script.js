@@ -15,12 +15,9 @@ function retornaHtmlCrregarNoticia (title, imagem, text) {
             <a href="noticia.php" role="button" aria-describedby="Botão para levar para a notícia" class="text-hover-gray">
                 <h4 class="card-title display-4 text-inherit">${title}</h4>
             </a>
-            <p class="card-text ">
+            <p tabindex="0" class="card-text ">
             ${text}
             </p>
-            <a href="noticia.php" role="button" aria-describedby="Botão para levar para a notícia" class="text-hover-gray">
-                <span class="text-inherit mt-auto pt-4">Ver mais</span>
-            </a>
         </div>
     </div>
 </div>`;

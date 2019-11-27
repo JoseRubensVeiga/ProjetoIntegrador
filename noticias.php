@@ -16,13 +16,10 @@
             <a href="#" role="button" class="text-hover-gray">
                 <h2 class="card-title text-inherit"><?= __('Aquaman 2 ganha data de estreia', 'Aquaman 2 wins debut date') ?></h2>
             </a>
-            <p class="card-text ">
+            <p tabindex="0"  class="card-text ">
                 Aquaman é um filme de super - herói estadunidense de 2018, baseado no personagem homônimo da DC Comics, distribuído pela Warner Bros. Pictures, sendo o sexto filme do Universo Estendido DC. O filme é dirigido por James Wan, com um roteiro de Will Beall e David Leslie, a partir de uma história de Wan, Johns e Beall 
                 [...]
             </p>
-            <a href="#" role="button" class="text-hover-gray">
-                <span class="text-inherit mt-auto pt-4"><?= __('Ver mais +', 'See more +') ?></span>
-            </a>
         </div>
     </div>
     <div class="col-lg-6">
@@ -47,10 +44,7 @@
             in Brazil') ?>
                 </h2>        
             </a>
-            <p class="card-text ">Capitã Marvel é um filme estadunidense de super-herói de 2019, baseado na personagem Carol Danvers da Marvel Comics, produzido pela Marvel Studios e distribuído pela Walt Disney Studios Motion Pictures, sendo o vigésimo primeiro filme do Universo Cinematográfico Marvel[...]</p>
-            <a href="#" role="button" class="text-hover-gray">
-                <span class="text-inherit mt-auto pt-4"><?= __('Ver mais +', 'See more +') ?></span>
-            </a>
+            <p tabindex="0"  class="card-text ">Capitã Marvel é um filme estadunidense de super-herói de 2019, baseado na personagem Carol Danvers da Marvel Comics, produzido pela Marvel Studios e distribuído pela Walt Disney Studios Motion Pictures, sendo o vigésimo primeiro filme do Universo Cinematográfico Marvel[...]</p>
         </div>
     </div>
 </div>
@@ -66,12 +60,9 @@
             <a href="#" role="button" class="text-hover-gray">
                 <h2 class="card-title text-inherit"><?= __('Dumbo foi mais caro do que Capitã Marvel', 'Dumbo was more expensive than Captain Marvel') ?></h2>
             </a>
-            <p class="card-text ">
+            <p tabindex="0"  class="card-text ">
                 Dumbo é um filme de aventura e fantasia estadunidense de 2019, dirigido por Tim Burton e escrito por Ehren Kruger, sendo o remake em live-action do longa-metragem animado Dumbo, de 1941, baseado no enredo escrito por Helen Aberson e ilustrado por Harold Pearl. Produzido pela Walt Disney Pictures e Tim Burton Productions e distribuído pela Walt Disney Studios Motion Pictures, é estrelado por Colin Farrell, Eva Green, Michael Keaton, Danny DeVito e Alan Arkin[...]
             </p>
-            <a href="#" role="button" class="text-hover-gray">
-                <span class="text-inherit mt-auto pt-4"><?= __('Ver mais +', 'See more +') ?></span>
-            </a>
         </div>
     </div>
     <div class="col-lg-6 mb-4">
@@ -94,10 +85,7 @@
                 <a href="#" role="button" class="text-hover-gray">
                     <h2 class="card-title text-inherit"><?= __('Homem-Aranha no Aranhaverso é melhor filme do herói em 14 anos', 'Spider-Man on Aranhaverso is best hero movie in 14 years') ?></h2>
                 </a>
-                <p class="card-text ">Homem Aranha no Aranhaverso é um filme de aventura de um jovem chamado Piter Parker que, em um momento, encontra outras versões de si mesmo de outros universos[...]</p>
-                <a href="#" role="button" class="text-hover-gray">
-                    <span class="text-inherit mt-auto pt-4"><?= __('Ver mais +', 'See more +') ?></span>
-                </a>
+                <p tabindex="0"  class="card-text ">Homem Aranha no Aranhaverso é um filme de aventura de um jovem chamado Piter Parker que, em um momento, encontra outras versões de si mesmo de outros universos[...]</p>
             </div>
         </a>
     </div>

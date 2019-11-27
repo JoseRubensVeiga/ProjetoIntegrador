@@ -40,12 +40,6 @@
 
 <div class="py-3"></div>
 
-<a href="estreias.php" class="btn btn-gray">
-<?= __('Ver Mais', 'See More') ?> +
-</a>
-
-<div class="py-3"></div>
-
 <h2 class="text-title-sidebar"><?= __('Filmes mais esperados', 'Most Expensive Movies') ?></h2>
 
 <img src="images/trailer_sidebar_05.jpg" alt="Imagem do poster de lançamento de Cemitério Maldito" class="img-ult-trailer-sidebar">
