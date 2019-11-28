@@ -1,8 +1,8 @@
 <footer class="bg-dark jv-footer">
-    <?php include('btn-voltar-sr-only.php'); ?>
     <div class="text-white ">
     <div class="row">
         <div class="pt-5 col-md-4 text-left pt-4 pl-5">
+            <p tabindex="0" class="sr-only">rodapé da página</p>
             <h4 class="pb-3">CINEFATEC</h4>
             <p>São Roque, SP</p>
             <P><?= __('Rua dos Crisântemos, 15 - Vila Santa Rosália - Centro', 'Chrysanthemums Street, 15 - Santa Rosalia Village - Center') ?></p>
