@@ -188,6 +188,4 @@
         </div>
     </div>
 </section>
-<div></div>
-
 <?php include('parts/end.inc.php'); ?>
