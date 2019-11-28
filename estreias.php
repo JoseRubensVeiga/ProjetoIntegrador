@@ -1,5 +1,5 @@
 <?php include('parts/begin.inc.php'); ?>
-
+<span style="display: none;">teste de alteração</span>
 <div class="row">
     <div class="col">
         <h1 class="display-4 text-center pt-5"><?= __('Estreias Mais Esperadas de 2019', 'Most Anticipated 2019 Premieres') ?></h1>
