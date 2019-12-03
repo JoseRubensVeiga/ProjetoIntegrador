@@ -2,8 +2,8 @@
 
 <div class="row">
     <div class="col">
-        <img class="py-4 dt-img-header w-100" src="images/film.jpg" alt="foto de uma máquina antiga de reproduzir filmes">
-        <h1 class=" dt-h2 font-weight-bold text-uppercase p-4">
+        <img tabindex="0" class="py-4 dt-img-header w-100" src="images/film.jpg" alt="foto de uma máquina antiga de reproduzir filmes">
+        <h1 tabindex="0" class=" dt-h2 font-weight-bold text-uppercase p-4">
         	<?= __('curiosidades', 'curiosities') ?>
         </h1>
     </div>

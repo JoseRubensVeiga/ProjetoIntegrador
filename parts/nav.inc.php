@@ -8,7 +8,7 @@ $r = str_replace('.php', '', end($u));
         <a class="navbar-brand font-weight-bold" href="index.php">
          <img src="images/logo.png" alt="logo Cinefatec" width="200" class="pb-2">
        </a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Abrir ou fechar container de navegação">
         <span class="hamburguer-group">
             <span class="hamburguer-line"></span>
         </span>

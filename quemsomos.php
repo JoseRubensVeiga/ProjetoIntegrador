@@ -121,9 +121,9 @@
         <div class="col-lg-4 col-md-6 col-sm-12 mb-5 mt-5">
             <div class="card">
                 <div class="card-body">
-                    <img tabindex="0" src="images/gustavoc.jpg" alt="foto do programador da equipe, Gustavo Coscarelli, 
+                    <img tabindex="0" src="images/lucas.jpg" alt="foto do programador da equipe, Gustavo Coscarelli, 
                         agachado segurando um peixe, com árvores e um lago ao fundo" class="img-fluid rounded-circle w-100 mb-3">
-                    <h3 tabindex="0">Gustavo Coscarelli</h3>
+                    <h3 tabindex="0">Lucas</h3>
                     <h5 tabindex="0"><?= __('Programador', 'Developer') ?></h5>
                     <p tabindex="0">RA 2650831823007</p>
                     <p tabindex="0"><?= __('Gustavo Coscarelli é formado em Projetos Mecânicos pela FATEC Sorocaba, é proprietário da empresa, A Barbearia. Hoje cursa o tecnólogo em 

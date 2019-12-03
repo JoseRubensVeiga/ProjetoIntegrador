@@ -3,7 +3,7 @@
 <!-- SEÇÃO DE CARDS -->
 <div class="cards">
     <div class="col-md-12 col-lg-12 col-sm-12 col-xl-12">
-        <h2 class="display-4 text-underline pt-4"><?= __('Últimas atualizações', 'Last News') ?></h2>
+        <h2 tabindex="0" class="display-4 text-underline pt-4"><?= __('Últimas atualizações', 'Last News') ?></h2>
         <hr class="under_title">
     </div>
     <div class="row padding-cards">
@@ -11,7 +11,7 @@
             <div class="card">
                 <div class="card-body">
                     <img tabindex="0" src="images/pikachu.png" class="card-img-top pb-3" alt="Essa uma imagem do pikachu, ele está com um boné em sua cabeça e está com uma expressão em seu rosto de abismado.">
-                    <h2 class="card-title">
+                    <h2 tabindex="0" class="card-title">
                         <?= __('Detetive Pikachu é o melhor filme de games?', 'Detective Pikachu is the best game movie?') ?>
                     </h2>
                     <p tabindex="0" class="card-text">
@@ -29,7 +29,7 @@
             <div class="card">
                 <div class="card-body">
                     <img tabindex="0" src="images/ving-ultimato.jpg" class="card-img-top pb-3" alt="Essa é uma imagem da capa do filme Os Vingadores Ultimato, nessa capa, está sendo exibido os seguintes heróis do filme. Capitão América, Capitã Marvel, Homem-Formiga, Viúva Negra, Nebulosa, Máquina de Combate, Rocket e o Hulk">
-                    <h2 class="card-title"><?= __('Recordes de Vingadores Ultimato', 'Avengers Records') ?></h2>
+                    <h2 tabindex="0" class="card-title"><?= __('Recordes de Vingadores Ultimato', 'Avengers Records') ?></h2>
                     <p tabindex="0" class="card-text">
                         <?= __(
                                 'Batendo grandes potências dos filmes, Vingadores Ultimato 
@@ -56,7 +56,7 @@
             <div class="card">
                 <div class="card-body">
                     <img tabindex="0" src="images/nova-ger-ving.jpg" class="card-img-top pb-3" alt="Essa é uma imagem do filme Vingadores Guerra Infinita. Na imagem está sendo exibido os seguintes personagens: o Thor, Gamora e o Senhor das Estrelas. Os persosangens estão na nave dos Guardiões da Galáxia.">
-                    <h2 class="card-title"><?= __('Nova geração dos vingadores ?', 'New generation of avengers?') ?></h2>
+                    <h2 tabindex="0" class="card-title"><?= __('Nova geração dos vingadores ?', 'New generation of avengers?') ?></h2>
                     <p tabindex="0" class="card-text">
                         <?= __('Marvel aposta em novos heróis, como será a aceitação do público? 
                         veja quem são os novos queiridinhos para os próximos filmes...', 
@@ -76,7 +76,7 @@
             <div class="card">
                 <div class="card-body">
                     <img tabindex="0" src="images/aranha3_l86WemA.jpg    " class="card-img-top pb-3" alt="Essa é uma imagem exibindo o Homem-Aranha com a sua armadura de ferro, produzida pelo Tony Stark.">
-                    <h2 class="card-title"><?= __('O que esperar do novo homem aranha?', 'What to expect from the new spider man?') ?></h2>
+                    <h2 tabindex="0" class="card-title"><?= __('O que esperar do novo homem aranha?', 'What to expect from the new spider man?') ?></h2>
                     <p tabindex="0" class="card-text">
                         <?= __('Marvel aposta em novos heróis, como será a aceitação do público? 
                         veja quem são os novos queiridinhos para os próximos filmes...',
@@ -95,7 +95,7 @@
             <div class="card">
                 <div class="card-body">
                     <img tabindex="0" src="images/aladin.jpg" class="card-img-top pb-3" height="260" alt="Essa é uma imagem do filme Alladin, nessa imagem está sendo exibido os seguintes personagens, Alladin, Gênio,o Macaquinho de estimação Abu e a Princesa Jasmine">
-                    <h2 class="card-title"><?= __('Alladin é um filme infantil?', "Is Aladdin a children's movie?") ?></h2>
+                    <h2 tabindex="0" class="card-title"><?= __('Alladin é um filme infantil?', "Is Aladdin a children's movie?") ?></h2>
                     <p tabindex="0" class="card-text">
                         <?= 
                             __('Marvel aposta em novos heróis, como será a aceitação do público? 
@@ -118,7 +118,7 @@
             <div class="card">
                 <div class="card-body">
                     <img tabindex="0" src="images/reencontro-aranha-stark.jpg" class="card-img-top pb-3" alt="Essa é uma imagem do filme Homem-Aranha: De Volta ao Lar, está sendo exibido o Homem de Ferro e o Homem-aranha sobrevoando uma cidade com diversos prédios.">
-                    <h2 class="card-title">
+                    <h2 tabindex="0" class="card-title">
                         <?= 
                             __('Robert Downey Jr. mostra reencontro entre Homem-Aranha e Homem de Ferro',
                             'Robert Downey Jr. shows reunion between Spider-Man and Iron Man') 
@@ -148,7 +148,7 @@
         <div class="col-md-12 col-sm-12 col-lg-6">
             <div class="card mb-2">
                 <div class="card-body ">
-                    <h3 class="card-title">
+                    <h3 tabindex="0" class="card-title">
                         <?= 
                             __('Homem-Aranha: Longe de Casa pode arrecadar entre US$ 90-120 milhões na estreia',
                             'Spider-Man: Far From Home Could Raise $ 90-120 Million On First') 
@@ -173,7 +173,7 @@
 
             <div class="card my-3">
                 <div class="card-body">
-                    <h3 class="card-title">
+                    <h3 tabindex="0" class="card-title">
                         <?= 
                             __('Homem-Aranha: Longe de Casa pode arrecadar entre US$90-120 milhões na estreia',
                             'Spider-Man: Far From Home Could Raise US$90-120 Million On First') 
@@ -219,7 +219,7 @@
                 </div>
                 <div class="col-md-8">
                 <div class="card-body">
-                    <h5 tabindex="0"  class="card-title">
+                    <h5 tabindex="0"  tabindex="0" class="card-title">
                         <?= 
                             __('Annabelle 3 (2019)',
                             'Annabelle 3 (2019)') 
@@ -239,7 +239,7 @@
                 </div>
                 <div class="col-md-8">
                 <div class="card-body">
-                    <h5 tabindex="0"  class="card-title">
+                    <h5 tabindex="0"  tabindex="0" class="card-title">
                         <?= 
                             __('Coringa (2019)',
                             'Joker (2019)') 
@@ -259,7 +259,7 @@
                 </div>
                 <div class="col-md-8">
                 <div class="card-body">
-                    <h5 tabindex="0"  class="card-title">
+                    <h5 tabindex="0"  tabindex="0" class="card-title">
                         <?= 
                             __('Velozes e furiosos 9(2019)',
                             'Fast and Furious 9 (2019)') 
@@ -279,7 +279,7 @@
                 </div>
                 <div class="col-md-8">
                 <div class="card-body">
-                    <h5 tabindex="0"  class="card-title">
+                    <h5 tabindex="0"  tabindex="0" class="card-title">
                         <?= 
                             __('Projeto Gremini (2019)',
                             'Project Gremini (2019)') 
@@ -299,7 +299,7 @@
                 </div>
                 <div class="col-md-8">
                 <div class="card-body">
-                    <h5 tabindex="0"  class="card-title">
+                    <h5 tabindex="0"  tabindex="0" class="card-title">
                         <?= 
                             __('Vingadores Últimato (2019)',
                             'Avengers End Game (2019)') 
@@ -319,7 +319,7 @@
                 </div>
                 <div class="col-md-8">
                     <div class="card-body">
-                        <h5 tabindex="0"  class="card-title">
+                        <h5 tabindex="0"  tabindex="0" class="card-title">
                         <?= 
                             __('Alladin (2019)',
                             'Alladin (2019)') 

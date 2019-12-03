@@ -1,5 +1,5 @@
 <?php include('btn-voltar-sr-only.php'); ?>
-<h2 class="text-underline pt-4"><?= __('Entrevista', 'Interview') ?></h2>
+<h2 tabindex="0" class="text-underline pt-4"><?= __('Entrevista', 'Interview') ?></h2>
 <hr class="under_title" />
 <p tabindex="0" class="subtitle-sidebar"><?= __('Astro do cinema Johnny Depp paga multa milionária por falta de declaração de imposto de renda', 'Film star Johnny Depp pays a millionaire fine for lack of income tax return') ?> .</p>
 <div class="py-3"></div>
