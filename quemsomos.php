@@ -125,12 +125,9 @@
                         agachado segurando um peixe, com árvores e um lago ao fundo" class="img-fluid rounded-circle w-100 mb-3">
                     <h3 tabindex="0">Lucas</h3>
                     <h5 tabindex="0"><?= __('Programador', 'Developer') ?></h5>
-                    <p tabindex="0">RA 2650831823007</p>
-                    <p tabindex="0"><?= __('Gustavo Coscarelli é formado em Projetos Mecânicos pela FATEC Sorocaba, é proprietário da empresa, A Barbearia. Hoje cursa o tecnólogo em 
-                        Sistemas para Internet na FATEC São Roque para aprender uma nova profissão e estar preparado para o mercado de trabalho.', 'Gustavo Coscarelli holds 
-                        a degree in Mechanical Engineering from FATEC, he owns the company, A Barbearia. Today the Technologist in Internet Systems at FATEC São Roque 
-                        attends to learn a new profession and be prepared for the job market.') ?></p><hr>
-                        <p tabindex="0"><strong><?= __('Desenvolveu as páginas lançamentos e contato', 'Developed the pages releases and contact') ?></strong></p>
+                    <p tabindex="0">RA 2650831923035</p>
+                    <p tabindex="0"><?= __('Lucas é formado em Técnico de Informática no SENAI Jandira, atualmente trabalha em uma empresa de suporte de um software ERP e tem como objetivo montar sua própria empresa de de sistemas Web.', 'Lucas holds a degree in Computer Technician at SENAI Jandira, currently works in an ERP software support company and aims to set up his own Web systems company.') ?></p><hr>
+                        <p tabindex="0"><strong><?= __('Assumiu as páginas lançamentos e contato', 'He took over the pages releases and contact') ?></strong></p>
                         <a class="text-primary" href="lancamentos.php"><u>lancamentos.php</u></a>
                         <a class="text-primary" href="contato.php"><u>contato.php</u></a>
                     <div class="d-flex flex-row justify-content-center">

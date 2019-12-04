@@ -9,7 +9,6 @@
             <h5 tabindex="0">Aquaman</h5>
                 <p tabindex="0" class="card-text"><?= __ ('Aquaman é considerado um dos filmes mais emocionantes da DC nos últios 10 anos.', 'Aquaman is considered one of DC most exciting movies in the last 10 years.') ?></p>
                 <img tabindex="0" src="images/star.png" class="card-img-botton" alt="ícone de avaliação contendo quatro estrelas">
-
             </div>
         </div>
     </div>
